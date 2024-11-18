@@ -74,7 +74,7 @@
 >```
 
 ### Soal 2 - Carilah judul buku favorit Anda di Google Books, lalu ganti ID buku pada variabel path di kode tersebut. Kemudian cobalah akses di browser URI tersebut dengan lengkap seperti ini. Jika menampilkan data JSON, maka Anda telah berhasil.
-<!-- >- **Mengganti ID variabel path**
+>- **Mengganti ID variabel path**
 >```dart
 >   Future<Response> getData() async {
 >       const authority = 'www.googleapis.com';
@@ -85,7 +85,7 @@
 >```
 
 >- **Data JSON yang ditampilkan di browser URI**
->![alt](assets/) -->
+>![alt](assets/)
 
 ### Soal 3 - Jelaskan maksud kode langkah 5 tersebut terkait `substring` dan `catchError`! kemudian Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
 

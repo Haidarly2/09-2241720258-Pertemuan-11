@@ -56,10 +56,10 @@ class _FuturePageState extends State<FuturePage> {
     );
   }
 
-  // Future<Response> getData() async {
-  //   const authority = 'www.googleapis.com';
-  //   const path = '/books/v1/volumes/5NomkK4EV68C';
-  //   Uri url = Uri.https(authority, path);
-  //   return http.get(url);
-  // }
+  Future<Response> getData() async {
+    const authority = 'www.googleapis.com';
+    const path = '/books/v1/volumes/5NomkK4EV68C';
+    Uri url = Uri.https(authority, path);
+    return http.get(url);
+  }
 }
