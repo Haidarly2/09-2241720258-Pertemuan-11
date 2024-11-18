@@ -106,3 +106,15 @@
 
 > - **Hasil praktikum berupa GIF** <br>
 > ![alt](assets/03.gif)
+
+## Praktikum 3
+
+### Soal 5 - Jelaskan maksud kode langkah 2 tersebut! Capture hasil praktikum Anda berupa GIF
+> - Kode tersebut digunakan untuk menunda pengembalian nilai hingga operasi asinkron selesai. Completer memungkinkan untuk mengontrol kapan Future selesai. Fungsi getNumber memulai proses dan mengembalikan Future, sementara calculate menunggu 5 detik sebelum menyelesaikan Future dengan nilai 42.
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/04.gif)
+
+### Soal 6 - 
+
+### Soal 7 - 
