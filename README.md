@@ -85,9 +85,12 @@
 >```
 
 >- **Data JSON yang ditampilkan di browser URI**
->![alt](assets/)
+>![alt](assets/01.png)
 
 ### Soal 3 - Jelaskan maksud kode langkah 5 tersebut terkait `substring` dan `catchError`! kemudian Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+> - Kode tersebut menggunakan substring untuk mengambil 450 karakter pertama dari respons value.body. Jika terjadi kesalahan saat mengambil data, catchError akan menangkapnya dan mengatur result menjadi 'An error occurred'.
 
+> - **Hasil praktikum berupa GIF** <br>
+>![alt](assets/02.gif)
 
 ### Soal 4 - 
