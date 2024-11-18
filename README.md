@@ -93,4 +93,16 @@
 > - **Hasil praktikum berupa GIF** <br>
 >![alt](assets/02.gif)
 
-### Soal 4 - 
+## Praktikum 2
+
+### Soal 4 - Jelaskan maksud kode langkah 1 dan 2 tersebut! Capture hasil praktikum Anda berupa GIF
+> 1. Fungsi returnOneAsync, returnTwoAsync, dan returnThreeAsync masing-masing menunggu selama 3 detik sebelum mengembalikan nilai 1, 2 dan 3.
+> 2. Fungsi count mengumpulkan hasil dari ketiga fungsi tersebut secara berurutan:
+> - total diinisialisasi dengan nilai 0.
+> - total diisi dengan hasil dari returnOneAsync.
+> - Nilai dari returnTwoAsync ditambahkan ke total.
+> - Nilai dari returnThreeAsync ditambahkan ke total.
+> 3. Setelah semua operasi selesai, setState dipanggil untuk memperbarui nilai result dengan total yang telah dihitung.
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/03.gif)
