@@ -15,7 +15,7 @@
 ## Praktikum 1
 
 ### Soal 1 - Tambahkan **nama panggilan Anda** pada `title` app sebagai identitas hasil pekerjaan Anda.
-<!-- >```dart
+>```dart
 >import 'package:flutter/material.dart';
 >
 >void main() {
@@ -71,7 +71,7 @@
 >    );
 >  }
 >}
->``` -->
+>```
 
 ### Soal 2 - Carilah judul buku favorit Anda di Google Books, lalu ganti ID buku pada variabel path di kode tersebut. Kemudian cobalah akses di browser URI tersebut dengan lengkap seperti ini. Jika menampilkan data JSON, maka Anda telah berhasil.
 <!-- >- **Mengganti ID variabel path**
