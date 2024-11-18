@@ -128,6 +128,7 @@
 > ![alt](assets/06.gif)
 
 ### Soal 8 - Jelaskan maksud perbedaan kode langkah 1 dan 4!
+> FutureGroup mengelola beberapa Future dan memungkinkan penambahan Future secara dinamis sebelum dipanggil close(). Future.wait langsung menunggu semua Future dalam daftar selesai dan mengembalikan hasilnya sebagai daftar.
 
 ## Praktikum 5
 
