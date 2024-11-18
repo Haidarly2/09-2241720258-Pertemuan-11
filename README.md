@@ -121,4 +121,14 @@
 > - **Hasil praktikum berupa GIF** <br>
 > ![alt](assets/05.gif)
 
-### Soal 7 - 
+## Praktikum 4
+
+### Soal 7 - Capture hasil praktikum Anda berupa GIF
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/06.gif)
+
+### Soal 8 - Jelaskan maksud perbedaan kode langkah 1 dan 4!
+
+## Praktikum 5
+
+### Soal 9 - 
