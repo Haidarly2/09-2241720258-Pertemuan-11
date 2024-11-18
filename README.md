@@ -115,6 +115,10 @@
 > - **Hasil praktikum berupa GIF** <br>
 > ![alt](assets/04.gif)
 
-### Soal 6 - 
+### Soal 6 - Jelaskan maksud perbedaan kode langkah 2 dengan langkah 5-6 tersebut! Capture hasil praktikum Anda berupa GIF
+> - Kode terbaru menambahkan penanganan kesalahan jika terjadi kesalahan selama penundaan, Future diselesaikan dengan error.
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/05.gif)
 
 ### Soal 7 - 
