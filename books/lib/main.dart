@@ -47,7 +47,7 @@ class _FuturePageState extends State<FuturePage> {
           ElevatedButton(
               child: const Text('GO!'),
               onPressed: () {
-                returnError().then((value) {
+                handleError().then((value) {
                   setState(() {
                     result = 'Success';
                   });
@@ -163,17 +163,17 @@ class _FuturePageState extends State<FuturePage> {
     throw Exception('Something terrible happened!');
   }
 
-  // Future handleError() async {
-  //   try {
-  //     await returnError();
-  //   }
-  //   catch (error) {
-  //     setState(() {
-  //       result = error.toString();
-  //     });
-  //   }
-  //   finally {
-  //     print('Complete');
-  //   }
-  // }
+  Future handleError() async {
+    try {
+      await returnError();
+    }
+    catch (error) {
+      setState(() {
+        result = error.toString();
+      });
+    }
+    finally {
+      print('Complete');
+    }
+  }
 }

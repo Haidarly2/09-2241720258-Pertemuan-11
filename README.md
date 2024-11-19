@@ -137,7 +137,7 @@
 > ![alt](assets/07.gif)
 
 ### Soal 10 - Panggil method handleError() tersebut di ElevatedButton, lalu run. Apa hasilnya? Jelaskan perbedaan kode langkah 1 dan 4!
-> 
+> returnError menunda 2 detik lalu melempar Exception. handleError memanggil returnError dan menangkap kesalahan, memperbarui result dengan pesan error, dan selalu mencetak 'Complete' di akhir.
 
 > - **Hasil praktikum berupa GIF** <br>
 > ![alt](assets/08.gif)
