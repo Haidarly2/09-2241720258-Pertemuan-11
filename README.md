@@ -167,5 +167,10 @@
 
 ## Praktikum 6
 
-### Soal 13 - 
-### Soal 14 - 
+### Soal 13 - Apakah ada perbedaan UI dengan praktikum sebelumnya? Mengapa demikian?Capture hasil praktikum Anda berupa GIF
+> - Ya ada, ketika proses loading, indicator loading berjalan lebih lama yaitu 3 detik, bukan 1 detik seperti sebelumnya. Ini karena penambahan delay pada method getPosition() dengan kode await Future.delayed(const Duration(seconds: 3))
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/10.gif)
+
+### Soal 14 - Apakah ada perbedaan UI dengan langkah sebelumnya? Mengapa demikian? Capture hasil praktikum Anda berupa GIF
