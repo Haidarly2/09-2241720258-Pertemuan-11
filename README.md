@@ -143,7 +143,21 @@
 > ![alt](assets/08.gif)
 
 ## Praktikum 5
-### Soal 11 - 
+### Soal 11 - Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
+> ```dart
+> @override
+>  Widget build(BuildContext context) {
+>    return Scaffold(
+>      appBar: AppBar(
+>        title: const Text('Current Haidar Location'),
+>      ),
+>      body: Center(
+>        child: Text(myPosition),
+>      ),
+>    );
+>  }
+> ```
+
 ### Soal 12 - 
 ### Soal 13 - 
 ### Soal 14 - 
