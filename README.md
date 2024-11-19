@@ -142,7 +142,7 @@
 > - **Hasil praktikum berupa GIF** <br>
 > ![alt](assets/08.gif)
 
-## Praktikum 5
+## Praktikum 6
 
 ### Soal 11 - Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
 > ```dart
@@ -165,7 +165,7 @@
 > - **Hasil praktikum berupa GIF** <br>
 > ![alt](assets/09.gif)
 
-## Praktikum 6
+## Praktikum 7
 
 ### Soal 13 - Apakah ada perbedaan UI dengan praktikum sebelumnya? Mengapa demikian?Capture hasil praktikum Anda berupa GIF
 > - Ya ada, ketika proses loading, indicator loading berjalan lebih lama yaitu 3 detik, bukan 1 detik seperti sebelumnya. Ini karena penambahan delay pada method getPosition() dengan kode await Future.delayed(const Duration(seconds: 3))
@@ -178,3 +178,35 @@
 
 > - **Hasil praktikum berupa GIF** <br>
 > ![alt](assets/11.gif)
+
+## Praktikum 8
+
+### Soal 15 - Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda. Silakan ganti dengan warna tema favorit Anda.
+> ```dart
+> class _NavigationFirstState extends State<NavigationFirst> {
+>  Color color = Colors.purple.shade700;
+>
+>  @override
+>  Widget build(BuildContext context) {
+>    return Scaffold(
+>      backgroundColor: color,
+>      appBar: AppBar(
+>        title: const Text('Haidar Navigation First Screen'),
+>      ),
+>      body: Center(
+>        child: ElevatedButton(
+>          child: const Text('Change Color'),
+>          onPressed: () {
+>            _navigateAndGetColor(context);
+>          },
+>        ),
+>      ),
+>    );
+>  }
+>}
+>```
+
+### Soal 16 - 
+### Soal 17 - 
+### Soal 18 - 
+### Soal 19 - 
