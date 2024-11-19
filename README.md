@@ -214,6 +214,8 @@
 
 ## Praktikum 9
 
-### Soal 17 - 
-### Soal 18 - 
-### Soal 19 - 
+### Soal 17 - Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ? Gantilah 3 warna pada langkah 3 dengan warna favorit Anda! Capture hasil praktikum Anda berupa GIF
+> Jika memilih button dengan warna tertentu maka background akan berubah, namun sebelumnya berganti page, sekarang menampilkan pop up message, ini terjadi karena penambahan kode pada method _showColorDialog() yang dimana terdapat builder berisi dialog alert yang berguna menampilkan pesan pop up
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/13.gif)
