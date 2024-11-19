@@ -206,7 +206,14 @@
 >}
 >```
 
-### Soal 16 - 
+### Soal 16 - Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ? Gantilah 3 warna pada langkah 5 dengan warna favorit Anda! Capture hasil praktikum Anda berupa GIF
+> Kalau menekan button change color maka akan disuruh memilih 3 button yang dimana tiap button akan merubah warna background menjadi warna yang berbeda-beda.
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/12.gif)
+
+## Praktikum 9
+
 ### Soal 17 - 
 ### Soal 18 - 
 ### Soal 19 - 
