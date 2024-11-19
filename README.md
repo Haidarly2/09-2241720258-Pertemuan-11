@@ -174,3 +174,7 @@
 > ![alt](assets/10.gif)
 
 ### Soal 14 - Apakah ada perbedaan UI dengan langkah sebelumnya? Mengapa demikian? Capture hasil praktikum Anda berupa GIF
+> - Untuk sekarang belum ada perubahan signifikan, karena kode yang baru saja ditambahkan berguna jika terjadi error yang dimana mengembalikan nilai errornya apa.
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/11.gif)
