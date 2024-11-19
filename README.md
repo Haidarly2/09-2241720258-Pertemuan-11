@@ -143,6 +143,7 @@
 > ![alt](assets/08.gif)
 
 ## Praktikum 5
+
 ### Soal 11 - Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
 > ```dart
 > @override
@@ -158,6 +159,13 @@
 >  }
 > ```
 
-### Soal 12 - 
+### Soal 12 - Jika Anda tidak melihat animasi loading tampil, kemungkinan itu berjalan sangat cepat. Tambahkan delay pada method getPosition() dengan kode await Future.delayed(const Duration(seconds: 3))Apakah Anda mendapatkan koordinat GPS ketika run di browser? Mengapa demikian? Capture hasil praktikum Anda berupa GIF
+> - Tidak tampil karena permission untuk pengambilan lokasi hanya diperuntukkan untuk android
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/09.gif)
+
+## Praktikum 6
+
 ### Soal 13 - 
 ### Soal 14 - 
