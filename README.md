@@ -132,4 +132,18 @@
 
 ## Praktikum 5
 
-### Soal 9 - 
+### Soal 9 - Capture hasil praktikum Anda berupa GIF
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/07.gif)
+
+### Soal 10 - Panggil method handleError() tersebut di ElevatedButton, lalu run. Apa hasilnya? Jelaskan perbedaan kode langkah 1 dan 4!
+> 
+
+> - **Hasil praktikum berupa GIF** <br>
+> ![alt](assets/08.gif)
+
+## Praktikum 5
+### Soal 11 - 
+### Soal 12 - 
+### Soal 13 - 
+### Soal 14 - 
